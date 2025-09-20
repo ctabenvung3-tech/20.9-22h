@@ -1,0 +1,5 @@
+{
+  "name": "Khảo sát Thông tin Môi trường Doanh nghiệp",
+  "description": "Một ứng dụng web để thu thập thông tin khảo sát về môi trường từ các doanh nghiệp, được thiết kế để dễ dàng điền và gửi dữ liệu đến Google Sheets để phân tích.",
+  "requestFramePermissions": []
+}
